@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     self.view.backgroundColor = [UIColor whiteColor];
-    self.navigationItem.title = @"首页";
+    self.navigationItem.title = @"微信";
 }
 
 
